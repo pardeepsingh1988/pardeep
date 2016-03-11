@@ -5,7 +5,9 @@
         Console.WriteLine("Hello !")
         Console.WriteLine("hdvbdvbd ... ")
         Console.Write(DateTime.Now())
-         Console.Writeline("date is :" + DateTime.Now())
+        Console.WriteLine("date is :" + DateTime.Now())
+        Console.WriteLine("hello")
+
     End Sub
 
 End Class
